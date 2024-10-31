@@ -1,6 +1,4 @@
 # DEĞİŞKEN KAVRAMI
-
-C:\ebrar\degisken.py
 # Değikenin Tanımı
 Yazılım dilinde değişken, bir değer saklamak için kullanılan bir isimlendirilmiş alan veya bellek parçasıdır. Değişkenler, programların çalışması sırasında farklı değerleri tutmak ve bu değerlere erişmek için kullanılır. Bizlerin günlük hayattaki her bir bilgisi, dijital ortamda veri olarak isimlendirilmektedir. Bu veriler programlama dillerinde sabit olarak tanımlanmaktadır. Ancak, eğer bu veriler ile programlama dillerinde depolama işlemi yapılması veya çeşitli işlemler gerçekleştirilmesi isteniyorsa, değişkenden yararlanmamız gereklidir.
 
