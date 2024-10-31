@@ -11,9 +11,6 @@ Python'da değişken oluştururken hata almamak ve doğru bir şekilde tanımlam
 Değişkene veri atama işlemi yapmak istersek değişken yazıp eşittir kullanmamız gerekir.
 Örnek: degisken="sayidegeri"
 
-x=10
-
-evAdresi="yurt"
 
 Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
 Örnek: 12numara="okulNo" -> Yanlış
@@ -64,5 +61,8 @@ Bool: Doğru ve yanlış ifadelerin tanımlanmasında kullanılır. Bu veri tipi
 String: Karaktersel veya metinsel verileri ifade eder. Bu veriler tanımlanırken çift tırnak sembolü içinde yazarak tanımlanır.
 
 Örnek: isim="sise"
+
+
+
 
 Kaynakça: Yılmaz ALACA ve Emine YALÇIN, Görüntü İşleme ChatGPT
